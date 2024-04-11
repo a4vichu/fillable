@@ -1,0 +1,18 @@
+{
+    "name": "vendor/fillable",
+    "description": "A Laravel package that simplifies the creation of fillable attributes in Eloquent models. Easily generate fillable fields for your models using a simple Artisan command, streamlining the development process and enhancing code readability.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vishnu prasad",
+            "email": "vishnuprasadowe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Fillable\\": "src/"
+        }
+    },
+    "require": {}
+}
