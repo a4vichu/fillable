@@ -7,10 +7,8 @@ Fillable Generator is a Laravel package that simplifies the process of generatin
 You can install the Fillable Generator package via Composer. Run the following command in your Laravel project directory:
 
 ```bash
-composer require vendor/fillable-generator
+composer require vishnu/fillable-generator
 ```
-
-Replace `vendor/fillable-generator` with the appropriate package name.
 
 ## Usage
 
