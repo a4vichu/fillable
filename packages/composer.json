@@ -1,0 +1,21 @@
+{
+    "name": "vendor/fillable-generator",
+    "description": "Laravel package to generate fillable arrays for Eloquent models",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vishnu prasad",
+            "email": "vishnuprasadowe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vishnu\\FillableGenerator\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "illuminate/console": "^8.0"
+    }
+}
