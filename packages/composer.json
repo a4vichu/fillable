@@ -1,5 +1,5 @@
 {
-    "name": "vendor/fillable-generator",
+    "name": "vishnu/fillable-generator",
     "description": "Laravel package to generate fillable arrays for Eloquent models",
     "type": "library",
     "license": "MIT",
